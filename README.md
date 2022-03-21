@@ -1,4 +1,4 @@
-**Viben Team ** on a mission to secure zillions of people's privacy & spread love towards communities!.
+** Viben Team ** on a mission to secure zillions of people's privacy & spread love towards communities!.
 
 ## Vision
 
