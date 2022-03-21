@@ -17,7 +17,7 @@ It is one of the **hardest jobs** because even though you don't have official au
 
 **Goal: Understand problem and start product requirement document (PRD) using this [template](https://assets.plan.io/files/Planio-Product-Requirements-Document-Template.pdf)**
 
-The first step is to figure out what problem to solve. This is the **hardest part**. If you get this wrong, everything else would result in waste. At JTC, often your customer would tell you the problem statement(s). [5 Whys](https://en.wikipedia.org/wiki/Five_whys) is a good interrogative technique to use while doing the discovery and understanding the problem statement.
+The first step is to figure out what problem to solve. This is the **hardest part**. If you get this wrong, everything else would result in waste. [5 Whys](https://en.wikipedia.org/wiki/Five_whys) is a good interrogative technique to use while doing the discovery and understanding the problem statement.
 
 Once you understand the problem, create a product requirement document (PRD) using this [template](https://assets.plan.io/files/Planio-Product-Requirements-Document-Template.pdf) and fill the relevant section to document the problem statement.
 
